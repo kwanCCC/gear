@@ -1,4 +1,4 @@
-package gear;
+package org.dora.gear;
 
 import java.io.Closeable;
 

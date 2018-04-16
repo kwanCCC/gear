@@ -1,4 +1,4 @@
-package gear.client;
+package org.dora.gear.client;
 
 import org.dora.gear.Client;
 
